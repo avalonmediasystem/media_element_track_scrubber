@@ -1,7 +1,6 @@
 # MediaElementTrackScrubber
 
 A track scrubber plugin for media element.
-This project rocks and uses MIT-LICENSE.
 
 ## How to use (as a dev):
 1. Add this gem to your gemfile (mediaelement-track-scrubber)
